@@ -14,8 +14,8 @@
 <br />
 <div>
   <a href="https://github.com/wesleypereiradasilveira">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleypereiradasilveira&count_private=true&include_all_commits=true&show_icons=true&theme=vue-dark&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleypereiradasilveira&layout=compact&theme=vue-dark&hide_border=true" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wesleypereiradasilveira&count_private=true&include_all_commits=true&show_icons=true&theme=vue-dark&hide_border=true" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleypereiradasilveira&layout=compact&theme=vue-dark&hide_border=true" />
   <a/>
 </div>
 <br />
