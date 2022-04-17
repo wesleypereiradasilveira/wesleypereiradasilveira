@@ -30,4 +30,8 @@
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </div>
-          
+<br />
+  
+  [Stats](https://github.com/anuraghazra/github-readme-stats) -
+  [Badges](https://github.com/Envoy-VC/Badges-for-GitHub) -
+  [Icons](https://devicon.dev/)
