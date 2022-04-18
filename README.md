@@ -1,6 +1,6 @@
 ### Hi, I'm Wesley Silveira. I'm a Software Engineer and Data Analyst from Brazil 🇧🇷.
 
-- 🔭 I’m currently working on EY as a Senior Consultant at Assurance Services team.
+- 🔭 I’m currently working on EY as a Senior Consultant.
 - 🌱 I’m learning about **Microsoft Azure Services** and improoving my knowledge about **C#** and **Python**.
 - 👯 I never collaborated in any open source project, so I'm looking forward to change that. If you feel that I can help with your project, please let me know.
 - 💬 You can reach me in Linkedin.
