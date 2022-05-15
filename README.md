@@ -1,10 +1,8 @@
 ### Hi, I'm Wesley Silveira. I'm a Software Engineer and Data Analyst from Brazil 🇧🇷.
 
 - 🔭 I’m currently working on EY as a Senior Consultant.
-- 🌱 I’m learning about **Microsoft Azure Services** and improoving my knowledge about **C#** and **Python**.
-- 👯 I never collaborated in any open source project, so I'm looking forward to change that. If you feel that I can help with your project, please let me know.
+- 🌱 I’m acquiring experience on **Microsoft Azure Services** and improoving my knowledge about **C#** and **Python**.
 - 💬 You can reach me in Linkedin.
-- 😄 My Pronouns are He/Him, all my friends and colleagues call me for my first name **Wesley**, feel free to call me that too.
 
 <br />
 <div>
