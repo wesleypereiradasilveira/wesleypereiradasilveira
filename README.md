@@ -1,7 +1,6 @@
-### Hi, I'm Wesley Silveira. I'm a Software Engineer and Data Analyst from Brazil 🇧🇷.
+### Hi, I'm Wesley Silveira. I'm a Software Engineer from Brazil 🇧🇷.
 
-- 🔭 I’m currently working on EY as a Senior Consultant.
-- 🌱 I’m acquiring experience working on different projects using **Microsoft Azure**, **C#** and **Python**.
+- 🔭 I’m currently working on EY as a Senior Consultant, developing applications with C#, Javascript and Azure.
 - 💬 You can reach me in Linkedin.
 
 <br />
@@ -25,9 +24,7 @@
   <br />
   <p>Programing languages that I am familiar with.</p>
   <img height="25em" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img height="25em" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img height="25em" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img height="25em" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </div>
 <br />
   
