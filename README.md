@@ -1,6 +1,6 @@
 ### Hi, I'm Wesley Silveira. I'm a Software Engineer from Brazil 🇧🇷.
 
-- 🔭 I’m currently working on EY as a Senior Consultant, developing applications with C#, Javascript and Azure.
+- 🔭 I’m currently working on EY as a Senior Consultant, developing solutions with C#, Python and Azure.
 - 💬 You can reach me in Linkedin.
 
 <br />
