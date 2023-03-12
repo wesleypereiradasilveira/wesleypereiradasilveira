@@ -1,6 +1,8 @@
-### Hi, I'm Wesley Silveira. I'm a Software Engineer from Brazil 🇧🇷.
+### Hi, I'm Wesley Silveira. I'm a Software and Data Engineer from Brazil 🇧🇷.
 
-- 🔭 I’m currently working on EY as a Senior Consultant, developing solutions with C#, Python and Azure.
+- ⚒️ As a Software Engineer I can create MVC Web Applications and API's, with **C#** and **Python** in the backend and Razor or Angular in the frontend.
+- 🎲 As a Data Engineer I can manage **big data** in the cloud, from consuming the data from different sources and types to preparing the data for use in data science, applications and visualizations.
+- 🌩️ In addition, I have experience with **Azure** services related to applications and data such as Serverless Functions, AppService, CI/CD with Azure DevOps, Big Data with Blob Storage, Data Lake Storage and Synapse, and Data Analytics with Databricks and so on.
 - 💬 You can reach me in Linkedin.
 
 <br />
