@@ -1,9 +1,9 @@
-### Hi, I'm Wesley Silveira. I'm a Software and Data Engineer from Brazil 🇧🇷.
+### Hello, I'm Wesley Silveira, a Software and Data Engineer from Brazil 🇧🇷.
 
-- ⚒️ As a Software Engineer I can create MVC Web Applications and API's, with **C#** and **Python** in the backend and Razor or Angular in the frontend.
-- 🎲 As a Data Engineer I can manage **big data** in the cloud, from consuming the data from different sources and types to preparing the data for use in data science, applications and visualizations.
-- 🌩️ In addition, I have experience with **Azure** services related to applications and data such as Serverless Functions, AppService, CI/CD with Azure DevOps, Big Data with Blob Storage, Data Lake Storage and Synapse, and Data Analytics with Databricks and so on.
-- 💬 You can reach me in Linkedin.
+- 🛠️ Software Engineer proficient in MVC Web Applications and API development with C# and Python, along with frontend expertise in Razor and Angular.
+- 📊 Data Engineer with a focus on managing big data in the cloud, spanning data ingestion, transformation, and preparation for data science, applications, and visualizations.
+- ☁️ Experienced in Azure services, including Serverless Functions, AppService, CI/CD via Azure DevOps, and adept at handling Big Data with Blob Storage, Data Lake Storage, Synapse, and Data Analytics using Databricks.
+- 🤜🤛 Connect with me on LinkedIn to learn more.
 
 <br />
 <div>
@@ -20,9 +20,10 @@
 <br />
 <div>
   <p>Programing languages that I have had previous experience with and feel comfortable working.</p>
-  <img height="25em" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img height="25em" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img height="25em" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img height="25em" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img height="25em" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white" />
   <img height="25em" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </div>
 <br />
